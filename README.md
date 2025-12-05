@@ -6,6 +6,11 @@ A retro ASCII-style implementation of the classic Space Invaders arcade game bui
 
 <img width="794" height="616" alt="Screenshot 2025-12-05 042854" src="https://github.com/user-attachments/assets/7bcd8c3b-6044-49c6-b6b0-9cf6b5a6728b" />
 
+check out Pygame Snake here: https://github.com/captainzero93/simple-snake-python-pygme
+
+check out Pygame ASCII Tetris here: https://github.com/captainzero93/ASCII-Tetris
+
+check out Pygame ANSCII Flappy Bird here: https://github.com/captainzero93/flappy-ascii-PYGAME
 
 ## Features
 - Classic Space Invaders mechanics: defend Earth from alien invasion!
